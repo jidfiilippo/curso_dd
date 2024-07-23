@@ -1,0 +1,6 @@
+name: cdd
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+prefix: /home/juani/anaconda3/envs/dd_env_test
