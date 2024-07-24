@@ -4,3 +4,12 @@
 conda create --name <nombre que quieran>
 conda activate nombre_del_entorno
 pip install -r requirements.txt  (Asegurense de tener el file requirements.txt en el folder en el directorio de trabajo actual)
+
+
+SI nada funciona, no crear un entorno y hacer
+
+pip install seaborn
+pip install rdkit
+pip install numpy
+pip install matplotlib
+pip install progressbar2
