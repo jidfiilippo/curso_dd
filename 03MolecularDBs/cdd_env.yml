@@ -1,4 +1,4 @@
-name: dd_env_test
+name: cdd
 channels:
   - conda-forge
   - bioconda
